@@ -1,0 +1,1 @@
+istanbul cover C:\Users\HP\AppData\Roaming\npm\node_modules\mocha\bin\_mocha -- -R spec
