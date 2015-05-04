@@ -1,0 +1,16 @@
+{
+  "name": "IsdaCDS",
+  "description": "CDS Model ISDA",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matthieu Croquelois",
+    "email": "croquelois@gmail.com"
+  },
+  "keywords": [
+    "CDS Model ISDA Bisection"
+  ],
+  "main": "./main.js",
+  "dependencies": {
+    "moment": "2.x.x"
+  }
+}
