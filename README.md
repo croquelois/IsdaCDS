@@ -11,6 +11,10 @@ On my I7-2600 using a single core:
 it take 850ms to use 'oneSpread' because there is a rootfinder of a rootfinder :(
 it take 50ms to use 'upfrontCharge'
 
+##additional dependency:
+
+you need to do ```npm install``` also you need to add rootFinder module in node_modules directory (you'll found rootFinder module in my repositories)
+
 ##use:
 
 ```js

@@ -11,6 +11,6 @@
   ],
   "main": "./main.js",
   "dependencies": {
-    "moment": "2.x.x"
+    "moment": "~>2.19.3"
   }
 }
